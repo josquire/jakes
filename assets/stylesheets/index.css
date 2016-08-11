@@ -1,0 +1,50 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  line-height: 20px;
+}
+
+body {
+  background-color: gray;
+}
+.align {
+  display: inline-block;
+  width: 45%;
+  margin-left: 250px;
+
+}
+
+.align-alt {
+  display: inline-block;
+  width: 43%;
+  height: 200px;
+  text-align: center;
+}
+
+.picture {
+  width: 500px;
+}
+
+.menu {
+  display: inline-block;
+  line-height: 20px;
+  height: 200px;
+  padding: 10px 33px 30px 1px;
+  width: 20%;
+  border: 1px dashed black;
+}
+
+.line {
+  line-height: 2px;
+}
+
+.border {
+  border-right: 2px solid black;
+  padding-right: 50px;
+}
+
+.side_menu {
+  text-align: center;
+}
