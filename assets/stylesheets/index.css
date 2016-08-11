@@ -17,7 +17,8 @@ body {
 }
 
 .align-alt {
-  display: inline-block;
+  float:left;
+  margin: 25px;
   width: 43%;
   height: 200px;
   text-align: center;
